@@ -17,7 +17,7 @@ import java.util.Date;
 @AllArgsConstructor
 @Getter
 @Setter
-
+//test
 @Entity
 public class Todo {
 
