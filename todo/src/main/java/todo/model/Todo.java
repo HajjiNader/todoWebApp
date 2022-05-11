@@ -26,6 +26,8 @@ public class Todo {
     private Integer id ;
 
     private String task;
+	    private String nader;
+
 
     private LocalDate date;
 
